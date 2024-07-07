@@ -1,0 +1,22 @@
+.odd {
+    background-color: #ff000050;
+}
+.one {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+.three {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    font-size: 24px;
+}
+#four {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #00ff0050;
+}
+.five {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
